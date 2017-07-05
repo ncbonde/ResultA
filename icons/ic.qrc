@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>logoit.jpg</file>
+    <file>rsz_department_logo.jpg</file>
+    <file>iconin.png</file>
+    <file>wce.gif</file>
+    <file>offl.png</file>
+    <file>res4.png</file>
+    <file>onl.png</file>
+    <file>about.png</file>
+  </qresource>
+</RCC>

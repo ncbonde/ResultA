@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon2">
+    <file>online.png</file>
+    <file>onl.png</file>
+    <file>offl.png</file>
+  </qresource>
+</RCC>
